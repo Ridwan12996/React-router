@@ -3,7 +3,7 @@ import "./Header.css"
 
 const Header = () => {
     return (
-        <div>
+        <div class="text-justify items-center">
             <h2> navber</h2>
             <nav>
                 {/* Using <link></link> beacuse of loading data  */}
